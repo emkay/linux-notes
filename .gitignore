@@ -1,3 +1,9 @@
+# Make sure files have extentions aka ignore binaries
+*
+!/**/
+!*.*
+!Makefile
+
 # Prerequisites
 *.d
 
